@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["document","getElementById","textContent"],"mappings":";AAAAA,SAASC,eAAe,OAAOC,YAAc","file":"my-npm-project.4ff133d8.js","sourceRoot":"..","sourcesContent":["document.getElementById('app').textContent = 'Hello World with Parcel!';"]}
